@@ -1,8 +1,8 @@
 # Common English Dictionary
 
-A dictionary containing only common English words.
+A dictionary containing only common English words of 4 or more letters.
 
-The dictionary contains ~62k English words, and attempts to only include words which are frequently used.
+The dictionary contains ~62k English words, and attempts to only include words which are frequently used, and are 4 letters or longer.
 
 ## Contributions
 
