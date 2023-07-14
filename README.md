@@ -10,4 +10,4 @@ Contributions to the dictionary are welcome! To contribute, please fork the repo
 
 ## License
 
-The source code for the dictionary is licensed under the GNU Affero General Public License v3.0 - see the `LICENSE` file for details.
+The source code for the dictionary is licensed under the Unlicense - see the `LICENSE` file for details.
