@@ -1,8 +1,8 @@
 # Common English Dictionary
 
-A dictionary containing only common English words of 4 or more letters.
+A dictionary containing only common English words.
 
-The dictionary contains ~62k English words, and attempts to only include words which are frequently used, and are 4 letters or longer.
+The dictionary contains ~61k English words, and attempts to only include words which are frequently used.
 
 ## Contributions
 
@@ -10,4 +10,4 @@ Contributions to the dictionary are welcome! To contribute, please fork the repo
 
 ## License
 
-The source code for the transformer is licensed under the GNU Affero General Public License v3.0 - see the `LICENSE` file for details.
+The source code for the dictionary is licensed under the GNU Affero General Public License v3.0 - see the `LICENSE` file for details.
